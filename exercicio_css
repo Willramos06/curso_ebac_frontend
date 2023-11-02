@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>meu portal</title>
+    <link rel="stylesheet" href="./main.css">
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <h1>Meu portal de noticias</h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="#economy" title="Ir para a seção economia">Economia</a>
+                    </li>
+                    <li>
+                        <a href="#sports" title="Ir para a seção esporte">Esporte</a>
+                    </li>
+                    <li>
+                        <a href="#music" title="Ir para a seção musica">Musica</a>
+                    </li>
+                    <li>
+                        <a href="#cine" title="Ir para a seção cinema">Cinema</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="economy">
+        <div class="container">
+            <h2>Economia</h2>
+        <div class="articles">
+            <article>
+                <img src="https://www.otempo.com.br/image/contentid/policy:1.2442329:1693574869/dollars-499481-1280-jpg.jpg?f=3x2&w=1224" alt="economia americana"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>Dólar em alta de 0.50%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        </article>
+            <article>
+                <img src="https://www.otempo.com.br/image/contentid/policy:1.2694082:1657019635/banknotes-209104-640-jpg.jpg?f=3x2&w=1224" alt="economia Europeia"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>Euro em queda de 0.40%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        
+        </article>
+        </div>
+        </div>
+    </section>
+    <section id="sports">
+        <div class="container">
+            <h2>Esporte</h2>
+        <div class="articles">
+            <article>
+                <img src="https://tudosobreapostas.com.br/wp-content/uploads/2021/01/Palpites-NBA-1024x682.jpg.webp" alt="Quadra NBA"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>Notícia sobre a NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        </article>
+            <article>
+                <img src="https://img.migalhas.com.br/gf_base/empresas/MIGA/imagens/BB8D10A3802451BE4075EB4F9183F28AB9FA_futebol.png" alt="Bola no campo"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>Grande clássico na noite de hoje</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        
+        </article>
+        </div>
+        </div>
+    </section>
+    <section id="music">
+        <div class="container">
+            <h2>Musica</h2>
+        <div class="articles">
+            <article>
+                <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/10/2560px-Coldplay_-_Global-Citizen-Festival_Hamburg_10-e1634214512837.jpg" alt="Show do coldplay"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>Show do coldplay no Rio de Janeiro</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        </article>
+            <article>
+                <img src="https://spaceks.net/sites/diamantinafm.com.br/images/notimage/user_450280730.jpg" alt="justin e coldplay em minas gerais"> <br/>
+                    <header>
+                        <time>23/10/2023 ás 22:00</time>
+                    </header>
+            <h3>É OFICIAL: Justin Bieber e Coldplay farão shows extras no Brasil</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>        
+        </article>
+        </div>
+        </div>
+    </section>
+
+    <section id="cine">
+        <div class="container">
+            <h2>Cinema</h2>
+        <div class="articles">
+            <article>
+                <img src="https://s2-techtudo.glbimg.com/edtmLWjwZn7L3-ML7CSQcYG1ndE=/0x0:1068x655/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/x/A/W4CpeFTUuqJy2ERdGmPQ/guardioes-da-galaxia-3-1068x655.jpg" alt="filme homem formiga 3"> <br/>
+                <header>
+                    <time>23/10/2023 ás 22:00</time>
+                </header>
+            <h3>O filme Guardiões da Galâxia 3 ganha data de estreia</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        </article>
+            <article>
+                <img src="https://m.media-amazon.com/images/S/pv-target-images/63cd3ecdd7087b81cf5bf9870abae0b513c4ff341e34be10178e29f50051c506.jpg" alt="filme velozes e furiosos 10"> <br/>
+                
+                    <header>
+                        <time>23/10/2023 ás 22:00</time>
+                    </header>
+            <h3>É OFICIAL: O Filme Velozes e Furiosos chegará ainda no primeiro semestre de 2023</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
+            </p>
+            <a href="#" title="Leia a noticia completa">Ler mais</a>        
+        </article>
+        </div>
+        </div>
+    </section>
+</body>
+</html>
