@@ -22,9 +22,6 @@
                     <li>
                         <a href="#music" title="Ir para a seção musica">Musica</a>
                     </li>
-                    <li>
-                        <a href="#cine" title="Ir para a seção cinema">Cinema</a>
-                    </li>
                 </ul>
             </nav>
         </div>
@@ -35,22 +32,22 @@
             <h2>Economia</h2>
         <div class="articles">
             <article>
-                <img src="https://www.otempo.com.br/image/contentid/policy:1.2442329:1693574869/dollars-499481-1280-jpg.jpg?f=3x2&w=1224" alt="economia americana"> <br/>
+                <img src="https://www.infomoney.com.br/wp-content/uploads/2019/06/dolares-e-bandeira-dos-eua-e1585929670178.jpg?resize=900%2C515&quality=50&strip=all" alt="economia americana"> <br/>
                 <header>
                     <time>23/10/2023 ás 22:00</time>
                 </header>
-            <h3>Dólar em alta de 0.50%</h3>
+            <h3>PIB Americano cai 3%</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
             </p>
             <a href="#" title="Leia a noticia completa">Ler mais</a>
         </article>
             <article>
-                <img src="https://www.otempo.com.br/image/contentid/policy:1.2694082:1657019635/banknotes-209104-640-jpg.jpg?f=3x2&w=1224" alt="economia Europeia"> <br/>
+                <img src="https://static.todamateria.com.br/upload/ec/on/economia-no-brasil-og.jpg" alt="economia brasileira"> <br/>
                 <header>
                     <time>23/10/2023 ás 22:00</time>
                 </header>
-            <h3>Euro em queda de 0.40%</h3>
+            <h3>economia brasileira</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
             </p>
@@ -65,22 +62,22 @@
             <h2>Esporte</h2>
         <div class="articles">
             <article>
-                <img src="https://tudosobreapostas.com.br/wp-content/uploads/2021/01/Palpites-NBA-1024x682.jpg.webp" alt="Quadra NBA"> <br/>
+                <img src="https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2023/10/nba-arte.jpg" alt="jogadores da nba"> <br/>
                 <header>
                     <time>23/10/2023 ás 22:00</time>
                 </header>
-            <h3>Notícia sobre a NBA</h3>
+            <h3>jogadores da nba</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
             </p>
             <a href="#" title="Leia a noticia completa">Ler mais</a>
         </article>
             <article>
-                <img src="https://img.migalhas.com.br/gf_base/empresas/MIGA/imagens/BB8D10A3802451BE4075EB4F9183F28AB9FA_futebol.png" alt="Bola no campo"> <br/>
+                <img src="https://veja.abril.com.br/wp-content/uploads/2023/06/000_33HY3YQ.jpg?quality=90&strip=info&w=1024&resize=1200,800" alt="man city campeão"> <br/>
                 <header>
                     <time>23/10/2023 ás 22:00</time>
                 </header>
-            <h3>Grande clássico na noite de hoje</h3>
+            <h3>man city campeão</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
             </p>
@@ -114,41 +111,13 @@
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
             </p>
-            <a href="#" title="Leia a noticia completa">Ler mais</a>        
+            <a href="#" title="Leia a noticia completa">Ler mais</a>
+        
         </article>
         </div>
         </div>
     </section>
 
-    <section id="cine">
-        <div class="container">
-            <h2>Cinema</h2>
-        <div class="articles">
-            <article>
-                <img src="https://s2-techtudo.glbimg.com/edtmLWjwZn7L3-ML7CSQcYG1ndE=/0x0:1068x655/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/x/A/W4CpeFTUuqJy2ERdGmPQ/guardioes-da-galaxia-3-1068x655.jpg" alt="filme homem formiga 3"> <br/>
-                <header>
-                    <time>23/10/2023 ás 22:00</time>
-                </header>
-            <h3>O filme Guardiões da Galâxia 3 ganha data de estreia</h3>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
-            </p>
-            <a href="#" title="Leia a noticia completa">Ler mais</a>
-        </article>
-            <article>
-                <img src="https://m.media-amazon.com/images/S/pv-target-images/63cd3ecdd7087b81cf5bf9870abae0b513c4ff341e34be10178e29f50051c506.jpg" alt="filme velozes e furiosos 10"> <br/>
-                
-                    <header>
-                        <time>23/10/2023 ás 22:00</time>
-                    </header>
-            <h3>É OFICIAL: O Filme Velozes e Furiosos chegará ainda no primeiro semestre de 2023</h3>
-            <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Error laborum voluptates tempore iste architecto, atque maiores fugiat possimus modi libero vel itaque obcaecati at quis fuga eveniet hic iure commodi?
-            </p>
-            <a href="#" title="Leia a noticia completa">Ler mais</a>        
-        </article>
-        </div>
-        </div>
-    </section>
+    
 </body>
 </html>
